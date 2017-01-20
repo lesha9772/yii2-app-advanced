@@ -1,0 +1,1 @@
+Вы <b><?=Yii::$app->user->identity['user_name']?></b> вошли в систему
